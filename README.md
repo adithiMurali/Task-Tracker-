@@ -31,7 +31,7 @@ task-tracker/
 - **All tasks saved in a plain text file** (`tasks.txt`)
 - **C++ speed:** Blink and you’ll miss it
 - **Runs offline:** No clouds, just code
-- **Executable included:** For instant tracking action
+- **Executable included:** For instant tracking action!
 
 ---
 
